@@ -3,6 +3,7 @@ def main():
     print("I've added some lines.")
     a = 5 + 5
     print(f"{a} times faster.")
+    print("This is new")
     
 
 main()
