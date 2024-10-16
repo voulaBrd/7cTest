@@ -5,6 +5,7 @@ def main():
     print(f"{a} times faster.")
     print("This is new")
     #gjuyuyuy
+    #jgfhidyh
     
 
 main()
